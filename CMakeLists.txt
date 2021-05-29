@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 project(bioinformatics_practise)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 
 add_executable(bioinf main.cpp)
 add_executable(dna training/dna.cpp)
@@ -20,6 +20,7 @@ add_executable(ba3d ba3/ba3d.cpp)
 add_executable(ba3h ba3/ba3h.cpp)
 add_executable(ba3k ba3/ba3k.cpp)
 add_executable(ba3m ba3/ba3m.cpp)
+add_executable(ba3j ba3/ba3j.cpp)
 add_executable(ba5c ba5/ba5c.cpp)
 add_executable(ba5e ba5/ba5e.cpp)
 add_executable(ba5j ba5/ba5j.cpp)
@@ -28,4 +29,11 @@ add_executable(ba6a ba6/ba6a.cpp)
 add_executable(ba6b ba6/ba6b.cpp)
 add_executable(ba6c ba6/ba6c.cpp)
 add_executable(ba6d ba6/ba6d.cpp)
+add_executable(ba2b ba2/ba2b.cpp)
+add_executable(ba2f ba2/ba2f.cpp)
+add_executable(ba9h ba9/ba9h.cpp)
+add_executable(ba9d ba9/ba9d.cpp)
+add_executable(ba9o ba9/ba9o.cpp)
+add_executable(ba10o ba10/ba10c.cpp)
+
 
