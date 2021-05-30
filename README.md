@@ -1,6 +1,6 @@
 # bioinformatics_practice
-Spring practice 2020 \n
+Spring practice 2020 
 
-Some different tasks from rosalind.info \n
+Some different tasks from rosalind.info 
 
 Find conditions of the task on rosalind.ifmo/problems/"taskName"/
